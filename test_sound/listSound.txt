@@ -1,0 +1,50 @@
+001 - chào mừng bạn đến với hệ thống giá kho lưu trữ thông minh 
+002 -  Vui lòng đăng nhập vào hệ thống
+003 - Hoàn thành thao tác
+dtbT - đóng toàn bộ giá bên trái
+dtbP - đóng toàn bộ giá bên phải 
+005 - Đóng toàn bộ hệ thống
+006 - Máy bị Khóa không thao tác được
+007 - Hệ thống dừng khẩn cấp
+007_1 - Dừng khẩn cấp do phát hiện có người vào khoang giá
+007_2 - Dừng khẩn cấp do phát hiện nguy cơ kẹt khoang giá
+008 - Cảnh báo có người trong tủ
+009 - Có người vào tủ
+010 - Cảnh báo phát hiện cháy trong tủ 
+011 - Cảnh báo phát hiện cháy ngoài tủ 
+012 - Kết thúc quá trình sử dụng hệ thống tủ tài liệu thông minh 
+013 - Thiết lập đóng tủ lần đầu
+014 - Cảm ơn bạn đã sử dụng hệ thống tủ tài liệu của chúng tôi
+015 - Cảnh báo có vật cản
+016 - Vận hành bảo Dưỡng hệ thống
+017 - Bắt đầu chương trình bảo dưỡng hệ thống tủ tài liệu thông minh
+
+018 - Dừng khẩn cấp do kẹt giá số
+019 - vận hành hệ thống thông gió
+020 - kết thúc vận hành hệ thống thông gió
+
+030 - kiểm tra cảm biến nhiệt độ trong giá
+031 - kiểm tra cảm biến nhiệt độ ngoài giá
+032 - Kiểm tra cảm biến khoảng cách
+033 - kiểm tra động cơ
+034 -  kiểm tra đèn chiếu sáng
+035 - kiểm tra còi chíp
+036 - kiểm tra quạt thông gió
+037 - kiểm tra đèn tháp
+038 - kiểm tra cảm biến cháy trong giá 
+039 - kiểm tra cảm biến cháy ngoài giá
+040 - kiểm tra cảm biến hồng ngoại dọc
+041 - kiểm tra cảm biến tiệm cận trái
+042 - kiểm tra cảm biến tiệm cận phải
+043 - kiểm tra cảm biến đếm người
+044 - 46-nữ-Xóa-một-cột-bên-trái-thành-công
+045 - 45-nữ-Thêm-một-tủ-trái-thành-công
+046 - xóa một tủ bên phải thành công
+047 - thêm 1 tủ bên phải thành công
+kdc_xx : khoa dong co xx
+mkg_xx : mo khoang gia xx
+
+050 - kết thúc quá trình bảo dưỡng hệ thống
+
+mkg_xx : mo khoang gia xx
+
